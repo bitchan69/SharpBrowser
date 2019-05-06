@@ -1,0 +1,3 @@
+int hourlyWage = 800, int hoursWorked = 30;
+Console.WriteLine(hourlyWage * hoursWorked);
+Console.ReadLine()
